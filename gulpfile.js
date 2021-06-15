@@ -198,7 +198,9 @@ function clean(params) {
 
 let build = gulp.series(clean, gulp.parallel(css, js, html, images, fonts), fontsStyle);
 let watch = gulp.parallel(build, watchFiles, browsersync);
-// exports.clean = clean; 
+
+
+exports.clean = clean; 
 
 exports.fontsStyle = fontsStyle; 
 exports.fonts = fonts;
