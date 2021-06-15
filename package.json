@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Anffaloff/train.git"
+    "url": "git+https://github.com/Anffaloff/tech.git"
   },
   "author": "anffaloff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Anffaloff/train/issues"
+    "url": "https://github.com/Anffaloff/tech/issues"
   },
-  "homepage": "https://github.com/Anffaloff/train#readme",
+  "homepage": "https://github.com/Anffaloff/tech#readme",
   "devDependencies": {
     "browser-sync": "^2.26.13",
     "del": "^6.0.0",
